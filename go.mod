@@ -1,3 +1,3 @@
-module github.com/dmbrl/ci
+module github.com/dmbrln/ci
 
 go 1.16
