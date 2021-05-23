@@ -1,2 +1,8 @@
+server:
+	npx nodos server
+
 test:
-	go test
+	npm -s test
+
+lint:
+	npm run lint
